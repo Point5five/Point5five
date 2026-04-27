@@ -1,5 +1,7 @@
-🛠️ Technical FAQ: Nova Prime v2.4 Architecture
-Q1: Is Nova Prime a standard AI wrapper?
+# 🛠️ Technical FAQ: Nova Prime v2.4 Architecture
+### Q1: Is Nova Prime a standard AI wrapper?
+### Q2: Why use 20+ independent GitHub repositories as data nodes?
+
 
 No. Nova Prime is a Sovereign Intelligence Framework. Unlike wrappers that handle logic in the client-side browser, Nova Prime utilizes a Decoupled Node Architecture. All tactical inference and "Friction Matrix" logic are isolated within a server-side Black Box (Cloudflare Workers), ensuring zero-client visibility of proprietary IP and API keys.
 
